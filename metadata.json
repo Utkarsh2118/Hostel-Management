@@ -1,0 +1,8 @@
+{
+  "name": "HostelHub",
+  "description": "University hostel room allotment, interactive floor plans, multi-way room swap marketplace, roommate finder, and grounded hostel policy desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
